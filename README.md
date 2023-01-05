@@ -22,7 +22,7 @@ Ripto does not currently support group chat, video/voice calls, or the ability t
  - A valid email address
 
 ## Download 
-<a href="https://watchs.dkbotz.ml/522694/Love+Calculator.apk?hash=AgAD8x">
+<a href="https://www.mediafire.com/file/w288m1ljm1p2jja/Ripto.apk/file">
   <img src="https://github.com/mu-fazil-vk/Ripto/blob/main/screenshot/download.png" height="155" width="300" >
 </a>
 
